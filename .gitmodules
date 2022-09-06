@@ -1,0 +1,15 @@
+[submodule "lkmpg"]
+	path = lkmpg
+	url = https://github.com/sysprog21/lkmpg.git
+[submodule "linux-insides"]
+	path = linux-insides
+	url = https://github.com/0xAX/linux-insides.git
+[submodule "Linux-Kernel-Programming"]
+	path = Linux-Kernel-Programming
+	url = https://github.com/PacktPublishing/Linux-Kernel-Programming.git
+[submodule "kernelteaching"]
+	path = kernelteaching
+	url = https://github.com/yhr/kernelteaching.git
+[submodule "linux-kernel-labs"]
+	path = linux-kernel-labs
+	url = https://github.com/linux-kernel-labs/linux.git
