@@ -13,3 +13,6 @@
 [submodule "linux-kernel-labs"]
 	path = linux-kernel-labs
 	url = https://github.com/linux-kernel-labs/linux.git
+[submodule "Linux-Device-Driver"]
+	path = Linux-Device-Driver
+	url = https://github.com/d0u9/Linux-Device-Driver.git
